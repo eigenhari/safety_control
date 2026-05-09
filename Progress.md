@@ -5,7 +5,7 @@
 ### 1. Passivity and Lyapunov Functions
 - **Hari:** :[passivity.pdf](https://github.com/user-attachments/files/27550003/passivity.pdf)
 
-- **Biswash:** [Google Docs Link](https://docs.google.com/...)
+- **Biswash:** [Google Docs Link - Passivity and Lyapunov Function](https://docs.google.com/document/d/1D2bwyDP1b9DT2eGOYBpdidu_yh0e_DJpM0ytLlA0CUI/edit?tab=t.vut47bdqnkxe)
 
 ### 2. Dynamical Uncertainty
 - **Hari:** [Google Docs Link]()
