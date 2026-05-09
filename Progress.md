@@ -3,7 +3,8 @@
 ## Day 1
 
 ### 1. Passivity and Lyapunov Functions
-- **Hari:** [Google Docs Link](https://docs.google.com/...)
+- **Hari:** :[passivity.pdf](https://github.com/user-attachments/files/27550003/passivity.pdf)
+
 - **Biswash:** [Google Docs Link](https://docs.google.com/...)
 
 ### 2. Dynamical Uncertainty
